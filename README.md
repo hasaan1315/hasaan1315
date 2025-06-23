@@ -7,7 +7,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Stock Images Marketplace Website</b>  
-  - [Frontend site with HTML, CSS, JS – Free image downloading & browsing](#)
+  - [A full-stack online marketplace for photographers and visual artists to showcase, license, and sell high-quality images.](https://github.com/hasaan1315/Stock-Images-Marketplace-Website)
 - <b>Online Voting System Mobile App</b>  
   - [Secure Android application for real-time mobile voting](#)
 - <b>Bus Travel Management System</b>  
