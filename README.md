@@ -38,8 +38,14 @@
 
 <h2>📜 Certifications:</h2>
 
-- [Career Essentials in Cybersecurity – Microsoft & LinkedIn](#)
-- [Git & GitHub – Mind Luster](#)
+- **Career Essentials in Cybersecurity – Microsoft & LinkedIn**  
+  ![Cybersecurity Certificate](certifications/microsoft-cybersecurity.png)
+
+- **Git & GitHub – Mind Luster**  
+  ![Git Certificate](certifications/git-github-mindluster.png)
+
+  - **Data Science & Analytics – HP LIFE (HP Foundation)**  
+  ![HP Data Science Certificate](certifications/data science & analytics-hp.png)
 
 <h2>🛠 Skills:</h2>
 
