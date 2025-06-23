@@ -6,14 +6,35 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>MetroLink – Simplifying Urban Travel in Twin Cities (FYP) </b>  
+  - <a href="https://github.com/hasaan1315/MetroLink-App" target="_blank">
+    A Flutter-Firebase based public transport assistant featuring route planning, chatbot support, digital top-up, and lost item reporting.
+    </a>
+
+- <b>MetroLink Admin Dashboard (FYP) </b>  
+  - <a href="https://github.com/hasaan1315/MetroLink-Admin-Dashboard" target="_blank">
+    A responsive web-based admin panel to manage users, lost items, payments, alerts, and system security for the MetroLink app.
+    </a>
+    
 - <b>Stock Images Marketplace Website</b>  
-  - [A full-stack online marketplace for photographers and visual artists to showcase, license, and sell high-quality images.](https://github.com/hasaan1315/Stock-Images-Marketplace-Website)
+  - <a href="https://github.com/hasaan1315/Stock-Images-Marketplace-Website" target="_blank">
+    A full-stack online marketplace for photographers and visual artists to showcase, license, and sell high-quality images.
+    </a>
+
 - <b>Online Voting System Mobile App</b>  
-  - [Secure Android application for real-time mobile voting](https://github.com/hasaan1315/Online-Voting-System-Mobile-App)
+  - <a href="https://github.com/hasaan1315/Online-Voting-System-Mobile-App" target="_blank">
+    Secure Android application for real-time mobile voting with Firebase authentication and admin-controlled polls.
+    </a>
+
 - <b>Bus Travel Management System</b>  
-  - [OOP-based travel reservation and ticketing system in C++](https://github.com/hasaan1315/Travel-Diaries-Online-Bus-Ticketing-System)
+  - <a href="https://github.com/hasaan1315/Travel-Diaries-Online-Bus-Ticketing-System" target="_blank">
+    OOP-based travel reservation and ticketing system in C++ for terminal-based booking and seat management.
+    </a>
+
 - <b>Cloud Virtualization with Docker on AWS EC2</b>  
-  - [Deployed Docker containers on AWS EC2 with Linux & DevOps tools](#)
+  - <a href="#" target="_blank">
+    Docker container orchestration and deployment using Docker Swarm on Amazon EC2 for scalable microservice architecture.
+    </a>
 
 <h2>📜 Certifications:</h2>
 
