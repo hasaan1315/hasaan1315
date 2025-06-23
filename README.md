@@ -1,7 +1,7 @@
 <h1>Hi, I'm Muhammad Hasaan! <br/>
 <a href="mailto:Hassaan70306@gmail.com">Developer</a>, 
 <a href="https://www.linkedin.com/in/muhammad-hasaan-dev">DevOps Enthusiast</a>, 
-<a href="https://github.com/hasaan1315">Tech Learner</a></h1>
+<a href="https://github.com/hasaan1315">Tech Learner</a>,
 <a href="#">Cybersecurity Explorer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
@@ -30,12 +30,20 @@
 
 <h2>📫 Connect with me:</h2>
 
-[<img align="left" alt="Muhammad Hasaan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Muhammad Hasaan | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Muhammad Hasaan | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+<p>
+  <a href="mailto:Hassaan70306@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="22px" alt="Email" />
+    Hassaan70306@gmail.com
+  </a><br/>
 
-<br/>
+  <a href="https://www.linkedin.com/in/muhammad-hasaan-dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="LinkedIn" />
+    linkedin.com/in/muhammad-hasaan-dev
+  </a><br/>
 
-[linkedin]: https://www.linkedin.com/in/muhammad-hasaan-dev  
-[github]: https://github.com/hasaan1315  
-[email]: mailto:Hassaan70306@gmail.com  
+  <a href="https://github.com/hasaan703" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="22px" alt="GitHub" />
+    github.com/hasaan1315
+  </a>
+</p>
+
