@@ -45,7 +45,7 @@
   ![Git Certificate](certifications/git-github-mindluster.png)
 
   - **Data Science & Analytics – HP LIFE (HP Foundation)**  
-  ![HP Data Science Certificate](certifications/data science & analytics-hp.png)
+ ![HP Data Science Certificate](certifications/hp-data-science.png)
 
 <h2>🛠 Skills:</h2>
 
