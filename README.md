@@ -30,20 +30,13 @@
 
 <h2>📫 Connect with me:</h2>
 
-<p>
-  <a href="mailto:Hassaan70306@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="22px" alt="Email" />
-    Hassaan70306@gmail.com
-  </a><br/>
+[<img align="left" alt="Muhammad Hasaan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Muhammad Hasaan | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Muhammad Hasaan | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
-  <a href="https://www.linkedin.com/in/muhammad-hasaan-dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="LinkedIn" />
-    linkedin.com/in/muhammad-hasaan-dev
-  </a><br/>
+<br/>
 
-  <a href="https://github.com/hasaan703" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="22px" alt="GitHub" />
-    github.com/hasaan1315
-  </a>
-</p>
+[linkedin]: https://www.linkedin.com/in/muhammad-hasaan-dev  
+[github]: https://github.com/hasaan1315  
+[email]: mailto:Hassaan70306@gmail.com  
 
