@@ -9,7 +9,7 @@
 - <b>Stock Images Marketplace Website</b>  
   - [A full-stack online marketplace for photographers and visual artists to showcase, license, and sell high-quality images.](https://github.com/hasaan1315/Stock-Images-Marketplace-Website)
 - <b>Online Voting System Mobile App</b>  
-  - [Secure Android application for real-time mobile voting](#)
+  - [Secure Android application for real-time mobile voting](https://github.com/hasaan1315/Online-Voting-System-Mobile-App/blob/main/README.md)
 - <b>Bus Travel Management System</b>  
   - [OOP-based travel reservation and ticketing system in C++](#)
 - <b>Cloud Virtualization with Docker on AWS EC2</b>  
