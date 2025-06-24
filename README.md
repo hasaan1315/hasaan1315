@@ -6,12 +6,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>MetroLink – Simplifying Urban Travel in Twin Cities (FYP) </b>  
+- <b>MetroLink – Simplifying Urban Travel in Twin Cities (FYP)</b>  
   - <a href="https://github.com/hasaan1315/MetroLink-App" target="_blank">
     A Flutter-Firebase based public transport assistant featuring route planning, chatbot support, digital top-up, and lost item reporting.
     </a>
 
-- <b>MetroLink Admin Dashboard (FYP) </b>  
+- <b>MetroLink Admin Dashboard (FYP)</b>  
   - <a href="https://github.com/hasaan1315/MetroLink-Admin-Dashboard" target="_blank">
     A responsive web-based admin panel to manage users, lost items, payments, alerts, and system security for the MetroLink app.
     </a>
@@ -31,10 +31,24 @@
     OOP-based travel reservation and ticketing system in C++ for terminal-based booking and seat management.
     </a>
 
+<br/>
+
+<h2>☁️ Cloud & Virtualization Projects:</h2>
+
 - <b>Cloud Virtualization with Docker on AWS EC2</b>  
   - <a href="https://github.com/hasaan1315/Cloud-Virtualization-with-Docker-on-AWS-EC2" target="_blank">
     Docker container orchestration and deployment using Docker Swarm on Amazon EC2 for scalable microservice architecture.
     </a>
+
+<br/>
+
+<h2>⚙️ DevOps & MLOps Projects:</h2>
+
+- <b>MLflow Model Tracking & Deployment</b>  
+  - <a href="https://github.com/hasaan1315/MLflow-Model-Tracking-Deployment-" target="_blank">
+    A complete machine learning lifecycle project using MLflow for training, logging, versioning, and deploying a RandomForestClassifier on the Iris dataset.
+    </a>
+
 
 <h2>📜 Certifications:</h2>
 
