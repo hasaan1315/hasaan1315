@@ -58,12 +58,12 @@
 
 <h2>📊 Data Analytics & AI Projects:</h2>
 
-- <b>AI Flood Risk Visualization Dashboard</b>  
+- <b>Hydrolytix: AI Flood Risk Visualization Dashboard</b>  
   - <a href="https://github.com/hasaan1315/Hydrolytix/tree/main" target="_blank">
     AI-powered dashboard for predicting and visualizing flood-prone regions using machine learning models and interactive data visualization.
     </a>  
 
-- <b>AI Agri-Intelligence Visualization</b>  
+- <b>Hydrolytix: AI Agri-Intelligence Visualization</b>  
   - <a href="https://github.com/hasaan1315/Hydrolytix-Agri-Intelligence" target="_blank">
     Data-driven agriculture intelligence platform leveraging AI and ML models to analyze crop and soil data, with dashboards for farmers and stakeholders.
     </a>  
