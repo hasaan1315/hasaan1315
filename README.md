@@ -1,8 +1,8 @@
 <h1>Hi, I'm Muhammad Hasaan! <br/>
-<a href="mailto:Hassaan70306@gmail.com">Developer</a>, 
+<a href="mailto:Hassaan70306@gmail.com">Data Engineer</a>, 
 <a href="https://www.linkedin.com/in/muhammad-hasaan-dev">DevOps Enthusiast</a>, 
 <a href="https://github.com/hasaan1315">Tech Learner</a>, 
-<a href="#">Cybersecurity Explorer</a>, 
+<a href="#">Power BI Analyst</a>, 
 <a href="#">Data Analytics Practitioner</a>, 
 <a href="#">AI & ML Enthusiast</a>, 
 <a href="#">Cloud Computing Explorer</a>
