@@ -11,7 +11,7 @@
 <h2>📊 Business Intelligence (BI) Projects:</h2>
 
 - <b>Global Population Analytics Dashboard</b>  
-  - <a href="https://github.com/hasaan1315/Global-Population-Analytics-Dashboard" target="_blank">
+  - <a href="https://github.com/hasaan1315/Global-Population-Analytics-Dashboard-Power-BI-/tree/main" target="_blank">
     Portfolio-ready Power BI dashboard analyzing global population trends from 1960 to 2050, including demographic breakdowns, regional comparisons, projections, and interactive KPIs.
     </a>  
 
