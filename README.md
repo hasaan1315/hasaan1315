@@ -8,6 +8,43 @@
 <a href="#">Cloud Computing Explorer</a>
 </h1>
 
+<h2>📊 Business Intelligence (BI) Projects:</h2>
+
+- <b>Global Population Analytics Dashboard</b>  
+  - <a href="https://github.com/hasaan1315/Global-Population-Analytics-Dashboard" target="_blank">
+    Portfolio-ready Power BI dashboard analyzing global population trends from 1960 to 2050, including demographic breakdowns, regional comparisons, projections, and interactive KPIs.
+    </a>  
+
+- <b>Sales, Customer & Inventory Analytics Dashboard</b>  
+  - <a href="https://github.com/hasaan1315/Sales-Customer-Inventory-Analytics-Dashboard" target="_blank">
+    End-to-end Power BI solution for analyzing sales, customer behavior, product performance, and inventory, with drillthroughs, KPIs, and time-intelligence insights.
+    </a>
+
+<h2>📊 Data Analytics & AI Projects:</h2>
+
+- <b>Hydrolytix: AI Flood Risk Visualization Dashboard</b>  
+  - <a href="https://github.com/hasaan1315/Hydrolytix/tree/main" target="_blank">
+    AI-powered dashboard for predicting and visualizing flood-prone regions using machine learning models and interactive data visualization.
+    </a>  
+
+- <b>Hydrolytix: AI Agri-Intelligence Visualization</b>  
+  - <a href="https://github.com/hasaan1315/Hydrolytix-Agri-Intelligence" target="_blank">
+    Data-driven agriculture intelligence platform leveraging AI and ML models to analyze crop and soil data, with dashboards for farmers and stakeholders.
+    </a>  
+
+<h2>☁️ Cloud & Virtualization Projects:</h2>
+
+- <b>Cloud Virtualization with Docker on AWS EC2</b>  
+  - <a href="https://github.com/hasaan1315/Cloud-Virtualization-with-Docker-on-AWS-EC2" target="_blank">
+    Docker container orchestration and deployment using Docker Swarm on Amazon EC2 for scalable microservice architecture.
+    </a>
+
+<h2>⚙️ DevOps & MLOps Projects:</h2>
+
+- <b>MLflow Model Tracking & Deployment</b>  
+  - <a href="https://github.com/hasaan1315/MLflow-Model-Tracking-Deployment-" target="_blank">
+    A complete machine learning lifecycle project using MLflow for training, logging, versioning, and deploying a RandomForestClassifier on the Iris dataset.
+    </a>  
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -37,36 +74,6 @@
     </a>
 
 <br/>
-
-<h2>☁️ Cloud & Virtualization Projects:</h2>
-
-- <b>Cloud Virtualization with Docker on AWS EC2</b>  
-  - <a href="https://github.com/hasaan1315/Cloud-Virtualization-with-Docker-on-AWS-EC2" target="_blank">
-    Docker container orchestration and deployment using Docker Swarm on Amazon EC2 for scalable microservice architecture.
-    </a>
-
-<br/>
-
-<h2>⚙️ DevOps & MLOps Projects:</h2>
-
-- <b>MLflow Model Tracking & Deployment</b>  
-  - <a href="https://github.com/hasaan1315/MLflow-Model-Tracking-Deployment-" target="_blank">
-    A complete machine learning lifecycle project using MLflow for training, logging, versioning, and deploying a RandomForestClassifier on the Iris dataset.
-    </a>  
-
-<br/>
-
-<h2>📊 Data Analytics & AI Projects:</h2>
-
-- <b>Hydrolytix: AI Flood Risk Visualization Dashboard</b>  
-  - <a href="https://github.com/hasaan1315/Hydrolytix/tree/main" target="_blank">
-    AI-powered dashboard for predicting and visualizing flood-prone regions using machine learning models and interactive data visualization.
-    </a>  
-
-- <b>Hydrolytix: AI Agri-Intelligence Visualization</b>  
-  - <a href="https://github.com/hasaan1315/Hydrolytix-Agri-Intelligence" target="_blank">
-    Data-driven agriculture intelligence platform leveraging AI and ML models to analyze crop and soil data, with dashboards for farmers and stakeholders.
-    </a>  
 
 
 <h2>📜 Certifications:</h2>
