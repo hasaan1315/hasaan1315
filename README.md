@@ -19,6 +19,11 @@
   - <a href="https://github.com/hasaan1315/Sales-Customer-Inventory-Analytics-Dashboard" target="_blank">
     End-to-end Power BI solution for analyzing sales, customer behavior, product performance, and inventory, with drillthroughs, KPIs, and time-intelligence insights.
     </a>
+    
+- <b>PakMart – Sales Intelligence Dashboard</b>  
+  - <a href="https://github.com/hasaan1315/PakMart-Power-BI-Dashboard" target="_blank">
+    Interactive Power BI dashboard for e-commerce sales performance, profit analysis, customer behavior, category trends, and payment mode insights with advanced DAX measures and executive-level KPIs.
+    </a>
 
 <h2>📊 Data Analytics & AI Projects:</h2>
 
