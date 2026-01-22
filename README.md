@@ -83,6 +83,12 @@
 
 <h2>📜 Certifications:</h2>
 
+- **PL-300 Certification Prep: Microsoft Power BI Data Analyst - Udemy**  
+  ![Microsoft Power BI Certificate](https://github.com/hasaan1315/hasaan1315/blob/521d047707ab1ec97261a1622ee1245daf8ac907/certifications/Power%20BI%20Certificate.png)
+
+- **Python for Data Science Pro - Udemy**  
+  ![Microsoft Power BI Certificate](https://github.com/hasaan1315/hasaan1315/blob/8d13fe31607601d36eaca00cf551f09b7ba96167/certifications/Python%20for%20Data%20Science.png)
+
 - **Career Essentials in Cybersecurity – Microsoft & LinkedIn**  
   ![Cybersecurity Certificate](certifications/microsoft-cybersecurity.png)
 
@@ -94,11 +100,15 @@
 
 <h2>🛠 Skills:</h2>
 
-- **Languages:** C++, Java, HTML, CSS, JavaScript, PHP, SQL  
-- **Tools & Technologies:** Docker, Firebase, AWS EC2, GitHub, VirtualBox, VMware  
-- **Platforms:** Windows, Linux  
-- **IDEs:** VS Code, Android Studio, Eclipse  
-- **Soft Skills:** Communication, Teamwork, Problem Solving
+- <b>Data & BI:</b> Power BI, DAX, Data Modeling (Star Schema), Power Query (M), Dashboard Design, KPI Design, Data Visualization, Business Intelligence, Reporting & Analytics  
+- <b>Programming Languages:</b> Python, SQL, Java, C++, JavaScript, HTML, CSS  
+- <b>Databases:</b> MySQL, SQL Server, Firebase  
+- <b>DevOps & Cloud:</b> Docker, AWS EC2, MLflow, GitHub, VirtualBox, VMware  
+- <b>Tools & Platforms:</b> Power BI Desktop, VS Code, GitHub, Excel, Windows, Linux  
+- <b>IDEs:</b> VS Code, Android Studio
+- <b>Core Concepts:</b> Data Analysis, ETL, Data Cleaning, Time Intelligence, KPI Design, Dashboard Storytelling  
+- <b>Soft Skills:</b> Communication, Teamwork, Problem Solving, Analytical Thinking, Presentation Skills
+
 
 <h2>📫 Connect with me:</h2>
 
