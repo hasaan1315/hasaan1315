@@ -17,7 +17,7 @@
 
 <h2>📊 Business Intelligence (BI) Projects:</h2>
 
-- <b>Global Population Analytics Dashboard</b>  
+- <b>Global Population Analytics Dashboard</b>
   - <a href="https://github.com/hasaan1315/Global-Population-Analytics-Dashboard-Power-BI-/tree/main" target="_blank">
     Portfolio-ready Power BI dashboard analyzing global population trends from 1960 to 2050, including demographic breakdowns, regional comparisons, projections, and interactive KPIs.
     </a>  
@@ -29,7 +29,7 @@
     
 - <b>PakMart – Sales Intelligence Dashboard</b>  
   - <a href="https://github.com/hasaan1315/PakMart-Power-BI-Dashboard" target="_blank">
-    Interactive Power BI dashboard for e-commerce sales performance, profit analysis, customer behavior, category trends, and payment mode insights with advanced DAX measures and executive-level KPIs.
+     Interactive Power BI dashboard for e-commerce sales performance, profit analysis, customer behavior, category trends, and payment mode insights with advanced DAX measures and executive-level KPIs.
     </a>
 
 <h2>📊 Data Analytics & AI Projects:</h2>
