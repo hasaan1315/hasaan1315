@@ -8,6 +8,13 @@
 <a href="#">Cloud Computing Explorer</a>
 </h1>
 
+<h2>🛠️ Data Engineering Projects:</h2>
+
+- <b>NovaMart – Multi-Format Retail Data Pipeline (Apache Airflow 3)</b>  
+  - <a href="https://github.com/hasaan1315/novamart-airflow" target="_blank">
+    End-to-end Airflow 3 pipeline ingesting CSV, JSON, XML, and Excel retail data, applying data quality rules, loading into Postgres via idempotent DAGs, and generating automated daily business reports with cross-DAG Asset-based scheduling.
+    </a>
+
 <h2>📊 Business Intelligence (BI) Projects:</h2>
 
 - <b>Global Population Analytics Dashboard</b>  
