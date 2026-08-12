@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/muhammad-hasaan-dev">Power BI Analyst</a></h1>
 
 <h3><p>
-Building end-to-end data pipelines and BI solutions — from raw ingestion to warehouse modeling to executive dashboards. Exploring AI/ML, cloud, and DevOps along the way.
+Building end-to-end data pipelines and BI solutions from raw ingestion to warehouse modeling to executive dashboards. Exploring AI/ML, cloud, and DevOps along the way.
 </p></h3>
 
 <h2>🛠️ Data Engineering Projects:</h2>
@@ -110,7 +110,7 @@ Building end-to-end data pipelines and BI solutions — from raw ingestion to wa
 
 <h2>🛠 Skills:</h2>
 
-- <b>Data & BI:</b> Power BI, DAX, Data Modeling (Star Schema), Power Query (M), Dashboard Design, KPI Design, Data Visualization, Business Intelligence, Reporting & Analytics  
+- <b>Data & BI:</b> SnowFlake, Apache Airflow 3, Microsoft Fabric, Power BI, DAX, Data Modeling (Star Schema), Power Query (M), Dashboard Design, KPI Design, Data Visualization, Business Intelligence, Reporting & Analytics  
 - <b>Programming Languages:</b> Python, SQL, Java, C++, JavaScript, HTML, CSS  
 - <b>Databases:</b> MySQL, SQL Server, Firebase  
 - <b>DevOps & Cloud:</b> Docker, AWS EC2, MLflow, GitHub, VirtualBox, VMware  
