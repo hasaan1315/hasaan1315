@@ -10,6 +10,11 @@
 
 <h2>🛠️ Data Engineering Projects:</h2>
 
+- <b>Avalon Retail – Automated Snowflake ETL Pipeline</b>  
+  - <a href="https://github.com/hasaan1315/avalon-retail-snowflake-pipeline" target="_blank">
+    End-to-end Snowflake data pipeline ingesting multi-format retail data (CSV, JSON, XML), with SCD Type 2 customer history tracking, star-schema warehouse modeling, quarantine-based data quality validation, and full automation via a stored procedure and scheduled Task.
+    </a>
+
 - <b>NovaMart – Multi-Format Retail Data Pipeline (Apache Airflow 3)</b>  
   - <a href="https://github.com/hasaan1315/novamart-airflow" target="_blank">
     End-to-end Airflow 3 pipeline ingesting CSV, JSON, XML, and Excel retail data, applying data quality rules, loading into Postgres via idempotent DAGs, and generating automated daily business reports with cross-DAG Asset-based scheduling.
