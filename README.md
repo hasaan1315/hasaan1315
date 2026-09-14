@@ -98,6 +98,9 @@ Building end-to-end data pipelines and BI solutions from raw ingestion to wareho
 
 <h2>📜 Certifications:</h2>
 
+- **Microsoft Certified: Fabric Data Engineer Associate**
+  ![Microsoft Fabric Data Engineer Associate Certificate](certifications/fabric-data-engineer-associate.png)
+
 - **PL-300 Certification Prep: Microsoft Power BI Data Analyst - Udemy**  
   ![Microsoft Power BI Certificate](https://github.com/hasaan1315/hasaan1315/blob/521d047707ab1ec97261a1622ee1245daf8ac907/certifications/Power%20BI%20Certificate.png)
 
