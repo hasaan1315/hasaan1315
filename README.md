@@ -18,6 +18,11 @@ Building end-to-end data pipelines and BI solutions from raw ingestion to wareho
     End-to-end Airflow 3 pipeline ingesting CSV, JSON, XML, and Excel retail data, applying data quality rules, loading into Postgres via idempotent DAGs, and generating automated daily business reports with cross-DAG Asset-based scheduling.
     </a>
 
+- <b>ShopStream – Multi-Source GCP Data Platform</b>  
+  - <a href="https://github.com/hasaan1315/YOUR_REPO_NAME" target="_blank">
+    End-to-end GCP data platform unifying batch (PostgreSQL → Dataproc Serverless), streaming (Pub/Sub → Dataflow → BigQuery + Bigtable), and event-driven (GCS → Eventarc → Cloud Functions) order ingestion into a layered BigQuery warehouse, secured with least-privilege IAM and CMEK encryption, orchestrated via Workflows and Cloud Scheduler.
+    </a>
+
 - <b>Resilient Order Event Processing – Apache Kafka Pipeline</b>  
   - <a href="https://github.com/hasaan1315/kafka-order-pipeline" target="_blank">
     End-to-end Kafka order-processing pipeline built on native KRaft (no ZooKeeper), featuring a reliable idempotent producer, manual offset commit consumer, Dead Letter Queue pattern for poison messages, structured JSON logging, and documented crash-recovery and rebalance testing.
