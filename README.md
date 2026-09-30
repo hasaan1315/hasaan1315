@@ -19,7 +19,7 @@ Building end-to-end data pipelines and BI solutions from raw ingestion to wareho
     </a>
 
 - <b>ShopStream – Multi-Source GCP Data Platform</b>  
-  - <a href="https://github.com/hasaan1315/YOUR_REPO_NAME" target="_blank">
+  - <a href="https://github.com/hasaan1315/shoptream-GCP" target="_blank">
     End-to-end GCP data platform unifying batch (PostgreSQL → Dataproc Serverless), streaming (Pub/Sub → Dataflow → BigQuery + Bigtable), and event-driven (GCS → Eventarc → Cloud Functions) order ingestion into a layered BigQuery warehouse, secured with least-privilege IAM and CMEK encryption, orchestrated via Workflows and Cloud Scheduler.
     </a>
 
