@@ -24,7 +24,7 @@ Building end-to-end data pipelines and BI solutions from raw ingestion to wareho
     </a>
 
 - <b>Crypto Pulse – Lambda Architecture Kafka + Snowflake Pipeline</b>  
-  - <a href="https://github.com/hasaan1315/YOUR_REPO_NAME" target="_blank">
+  - <a href="https://github.com/hasaan1315/snowflake-kafka-crypto-pulse" target="_blank">
     Lambda architecture pipeline streaming live BTC/ETH/SOL trade ticks from Binance via Kafka into Snowflake, with daily ARIMA-based price forecasting enriched by news sentiment, automated Snowflake Task orchestration, real-time price-breach alerting, and a Streamlit dashboard.
     </a>
 
