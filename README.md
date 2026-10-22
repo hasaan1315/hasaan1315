@@ -1,6 +1,6 @@
 <h1>Hi, I'm Muhammad Hasaan! <br/>
-<a href="mailto:Hassaan70306@gmail.com">Data Engineer</a>, 
-<a href="https://www.linkedin.com/in/muhammad-hasaan-dev">Power BI Analyst</a></h1>
+<a href="https://www.linkedin.com/in/muhammad-hasaan-data">Data Engineer</a>, 
+<a href="https://www.linkedin.com/in/muhammad-hasaan-data">Power BI Analyst</a></h1>
 
 <h3><p>
 Building end-to-end data pipelines and BI solutions from raw ingestion to warehouse modeling to executive dashboards. Exploring AI/ML, cloud, and DevOps along the way.
