@@ -8,6 +8,16 @@ Building end-to-end data pipelines and BI solutions from raw ingestion to wareho
 
 <h2>🛠️ Data Engineering Projects:</h2>
 
+- <b>MauqaFinder – Automated Government Job Scraper</b>  
+  - <a href="https://github.com/hasaan1315/MauqaFinder" target="_blank">
+    Automated scraper platform workflow syncing multi-portal government job postings with reliable daily scheduling via GitHub Actions and external cron triggers.
+    </a>
+
+- <b>MauqaFinder App – SaaS Backend & Frontend Platform</b>  
+  - <a href="https://github.com/hasaan1315/MauqaFinder-app" target="_blank">
+    Full-stack FastAPI and frontend application hosted on Vercel and Supabase, featuring user profile matching, secure RLS database policies, and REST API endpoints.
+    </a>
+    
 - <b>Avalon Retail – Automated Snowflake ETL Pipeline</b>  
   - <a href="https://github.com/hasaan1315/avalon-retail-snowflake-pipeline" target="_blank">
     End-to-end Snowflake data pipeline ingesting multi-format retail data (CSV, JSON, XML), with SCD Type 2 customer history tracking, star-schema warehouse modeling, quarantine-based data quality validation, and full automation via a stored procedure and scheduled Task.
